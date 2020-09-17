@@ -1,7 +1,7 @@
 # Fitness_Tracker
 An app to track a users workout exercises using a Mongo database with a Mongoose schema, and routes handling by Express. 🧘🏾‍♀️  || 🏋🏽  || 🏃🏽‍♂️
 
-### https://murmuring-inlet-42412.herokuapp.com/
+### https://fitness-track-app.herokuapp.com/
 <br>
 
 <img src="public/assets/images/FitnessTracker.gif">  
